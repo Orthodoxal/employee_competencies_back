@@ -1,0 +1,538 @@
+[
+  {
+    "fullName": "Иванов Иван Иванович",
+    "city": "Ульяновск",
+    "birthDate": "01.02.1980",
+    "department": "Отдел мобильной разработки",
+    "position": "Старший разработчик",
+    "seniority": "2 года",
+    "hardSkills": [
+      "Разработка мультиплатформенных приложений",
+      "Разработка Ios приложений",
+      "Разработка Android приложений"
+    ],
+    "softSkills": [
+      "Высокая стрессоустойчивость",
+      "Грамотно общается с клиентами",
+      "Быстро входит в курс дела"
+    ],
+    "techs": [
+      "Android",
+      "Ios",
+      "Retrofit",
+      "Room",
+      "Compose",
+      "StoryBoard",
+      "Koin",
+      "Hilt",
+      "Dagger 2"
+    ],
+    "hrRecommendations": [
+      "Ценный сотрудник нашей компании, качественно выполняющий свои обязанности",
+      "Имеет большие перспективы карьерного роста",
+      "Редко посещает офис, не помешала бы мотивация привлекать сотрудника к работе в офисе"
+    ],
+    "achievements": [
+      "Закрыл проект раньше планируемого срока на 1 месяц",
+      "Написал несколько статей на Habr от лица компании",
+      "Выиграл городской турнир олимпиадного программирования"
+    ],
+    "salary": "175.000 ₽",
+    "rate": {
+      "teamWork": {
+        "value": "85",
+        "rate": "GOOD"
+      },
+      "leadership": {
+        "value": "78",
+        "rate": "GOOD"
+      },
+      "responsibility": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "employeesRate": {
+        "value": "95",
+        "rate": "PERFECT"
+      },
+      "clientsRate": {
+        "value": "55",
+        "rate": "NORMAL"
+      },
+      "bossRate": {
+        "value": "60",
+        "rate": "NORMAL"
+      },
+      "organizationWorkProcess": {
+        "value": "30",
+        "rate": "ACCEPTABLE"
+      },
+      "punctuality": {
+        "value": "40",
+        "rate": "ACCEPTABLE"
+      },
+      "stressResistance": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "creativity": {
+        "value": "10",
+        "rate": "BAD"
+      },
+      "analyticsSkills": {
+        "value": "60",
+        "rate": "GOOD"
+      },
+      "communicationsSkills": {
+        "value": "77",
+        "rate": "GOOD"
+      }
+    }
+  },
+  {
+    "fullName": "Петров Петр Петрович",
+    "city": "Москва",
+    "birthDate": "15.05.1990",
+    "department": "Отдел веб-разработки",
+    "position": "Full-stack разработчик",
+    "seniority": "5 лет",
+    "hardSkills": [
+      "Разработка веб-приложений",
+      "Разработка RESTful API",
+      "Фронтенд разработка",
+      "Бэкенд разработка",
+      "Базы данных"
+    ],
+    "softSkills": [
+      "Коммуникабельность",
+      "Работа в команде",
+      "Умение решать проблемы",
+      "Адаптивность",
+      "Организованность"
+    ],
+    "techs": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "Git",
+      "AWS"
+    ],
+    "hrRecommendations": [
+      "Отличный специалист, всегда готов помочь коллегам",
+      "Проявляет инициативу в работе и предлагает новые идеи",
+      "Отлично справляется с задачами и достигает поставленных целей"
+    ],
+    "achievements": [
+      "Разработал и внедрил новую функциональность в веб-приложении, увеличив его производительность на 30%",
+      "Провел успешное обучение новых сотрудников в отделе",
+      "Получил сертификат AWS Certified Developer"
+    ],
+    "salary": "250.000 ₽",
+    "rate": {
+      "teamWork": {
+        "value": "92",
+        "rate": "PERFECT"
+      },
+      "leadership": {
+        "value": "78",
+        "rate": "GOOD"
+      },
+      "responsibility": {
+        "value": "85",
+        "rate": "GOOD"
+      },
+      "employeesRate": {
+        "value": "95",
+        "rate": "PERFECT"
+      },
+      "clientsRate": {
+        "value": "70",
+        "rate": "GOOD"
+      },
+      "bossRate": {
+        "value": "65",
+        "rate": "GOOD"
+      },
+      "organizationWorkProcess": {
+        "value": "80",
+        "rate": "GOOD"
+      },
+      "punctuality": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "stressResistance": {
+        "value": "95",
+        "rate": "PERFECT"
+      },
+      "creativity": null,
+      "analyticsSkills": null,
+      "communicationsSkills": {
+        "value": "88",
+        "rate": "PERFECT"
+      }
+    }
+  },
+  {
+    "fullName": "Сидоров Сидор Сидорович",
+    "city": "Санкт-Петербург",
+    "birthDate": "10.10.1985",
+    "department": "Отдел разработки ПО",
+    "position": "Технический директор",
+    "seniority": "10 лет",
+    "hardSkills": [
+      "Архитектура ПО",
+      "Разработка масштабируемых систем",
+      "Управление проектами",
+      "Автоматизация процессов разработки"
+    ],
+    "softSkills": [
+      "Лидерские качества",
+      "Командообразование",
+      "Умение принимать решения",
+      "Аналитическое мышление"
+    ],
+    "techs": [
+      "Java",
+      "Spring",
+      "Hibernate",
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Jenkins",
+      "AWS"
+    ],
+    "hrRecommendations": [
+      "Отличный руководитель, знающий свое дело",
+      "Подходит для работы с крупными проектами",
+      "Проявляет высокую ответственность и инициативу"
+    ],
+    "achievements": [
+      "Успешно реализовал несколько крупных проектов с высокой степенью сложности",
+      "Внедрил новую систему управления проектами, что позволило сократить время разработки на 20%",
+      "Получил награду за лучший проект года в области разработки ПО"
+    ],
+    "salary": "400.000 ₽",
+    "rate": {
+      "teamWork": {
+        "value": "95",
+        "rate": "PERFECT"
+      },
+      "leadership": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "responsibility": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "employeesRate": {
+        "value": "95",
+        "rate": "PERFECT"
+      },
+      "clientsRate": {
+        "value": "85",
+        "rate": "GOOD"
+      },
+      "bossRate": {
+        "value": "80",
+        "rate": "GOOD"
+      },
+      "organizationWorkProcess": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "punctuality": {
+        "value": "95",
+        "rate": "PERFECT"
+      },
+      "stressResistance": {
+        "value": "95",
+        "rate": "PERFECT"
+      },
+      "creativity": {
+        "value": "80",
+        "rate": "GOOD"
+      },
+      "analyticsSkills": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "communicationsSkills": {
+        "value": "95",
+        "rate": "PERFECT"
+      }
+    }
+  },
+  {
+    "fullName": "Иванов Алексей Сергеевич",
+    "city": "Москва",
+    "birthDate": "25.08.1992",
+    "department": "Отдел разработки",
+    "position": "Frontend разработчик",
+    "seniority": "3 года",
+    "hardSkills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "HTML",
+      "CSS",
+      "RESTful API"
+    ],
+    "softSkills": [
+      "Коммуникабельность",
+      "Работа в команде",
+      "Аналитическое мышление",
+      "Проблемное мышление"
+    ],
+    "techs": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "hrRecommendations": [
+      "Отличный специалист с глубокими знаниями во фронтенд-разработке",
+      "Внимательный к деталям и всегда соблюдающий сроки",
+      "Активно участвует в жизни отдела и предлагает новые идеи"
+    ],
+    "achievements": [
+      "Разработал и внедрил новый компонент в проект, что улучшило его производительность на 20%",
+      "Получил сертификат React Developer от Udemy",
+      "Участвовал в разработке популярного open-source проекта"
+    ],
+    "salary": "200.000 ₽",
+    "rate": {
+      "teamWork": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "leadership": {
+        "value": "70",
+        "rate": "GOOD"
+      },
+      "responsibility": {
+        "value": "85",
+        "rate": "GOOD"
+      },
+      "employeesRate": {
+        "value": "95",
+        "rate": "PERFECT"
+      },
+      "clientsRate": {
+        "value": "75",
+        "rate": "GOOD"
+      },
+      "bossRate": {
+        "value": "80",
+        "rate": "GOOD"
+      },
+      "organizationWorkProcess": {
+        "value": "85",
+        "rate": "GOOD"
+      },
+      "punctuality": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "stressResistance": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "creativity": {
+        "value": "80",
+        "rate": "GOOD"
+      },
+      "analyticsSkills": {
+        "value": "75",
+        "rate": "GOOD"
+      },
+      "communicationsSkills": {
+        "value": "88",
+        "rate": "PERFECT"
+      }
+    }
+  },
+  {
+    "fullName": "Козлов Дмитрий Иванович",
+    "city": "Екатеринбург",
+    "birthDate": "03.12.1991",
+    "department": "Отдел разработки",
+    "position": "Backend разработчик",
+    "seniority": "6 лет",
+    "hardSkills": [
+      "Java",
+      "Spring",
+      "Hibernate",
+      "RESTful API",
+      "SQL",
+      "Microservices"
+    ],
+    "softSkills": [
+      "Коммуникабельность",
+      "Работа в команде",
+      "Аналитическое мышление",
+      "Проблемное мышление"
+    ],
+    "techs": [
+      "Java",
+      "Spring",
+      "Hibernate",
+      "MySQL",
+      "Git"
+    ],
+    "hrRecommendations": [
+      "Отличный специалист с глубокими знаниями в бэкенд-разработке",
+      "Внимательный к деталям и всегда соблюдающий сроки",
+      "Активно участвует в жизни отдела и предлагает новые идеи"
+    ],
+    "achievements": [
+      "Разработал и внедрил новый модуль в проект, что улучшило его производительность на 30%",
+      "Получил сертификат Java Developer от Oracle",
+      "Участвовал в разработке высоконагруженного веб-сервиса"
+    ],
+    "salary": "250.000 ₽",
+    "rate": {
+      "teamWork": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "leadership": {
+        "value": "70",
+        "rate": "GOOD"
+      },
+      "responsibility": {
+        "value": "85",
+        "rate": "GOOD"
+      },
+      "employeesRate": {
+        "value": "95",
+        "rate": "PERFECT"
+      },
+      "clientsRate": {
+        "value": "75",
+        "rate": "GOOD"
+      },
+      "bossRate": {
+        "value": "80",
+        "rate": "GOOD"
+      },
+      "organizationWorkProcess": {
+        "value": "85",
+        "rate": "GOOD"
+      },
+      "punctuality": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "stressResistance": {
+        "value": "90",
+        "rate": "PERFECT"
+      },
+      "creativity": {
+        "value": "80",
+        "rate": "GOOD"
+      },
+      "analyticsSkills": {
+        "value": "75",
+        "rate": "GOOD"
+      },
+      "communicationsSkills": {
+        "value": "88",
+        "rate": "PERFECT"
+      }
+    }
+  },
+  {
+    "fullName": "Петров Иван Васильевич",
+    "city": "Новосибирск",
+    "birthDate": "15.06.1990",
+    "department": "Отдел технической поддержки",
+    "position": "Системный администратор",
+    "seniority": "8 лет",
+    "hardSkills": [
+      "Linux",
+      "Windows Server",
+      "Active Directory"
+    ],
+    "softSkills": [
+      "Коммуникабельность",
+      "Работа в команде",
+      "Умение разрешать конфликты"
+    ],
+    "techs": [
+      "Linux",
+      "Windows Server",
+      "Active Directory",
+      "VMware",
+      "Cisco"
+    ],
+    "hrRecommendations": [
+      "Сотрудник с низкой инициативой и плохой коммуникацией",
+      "Не всегда выполняет работу в срок"
+    ],
+    "achievements": [
+      "Участвовал в развертывании нового серверного парка",
+      "Принимал участие в проведении масштабных обновлений системы"
+    ],
+    "salary": "150.000 ₽",
+    "rate": {
+      "teamWork": {
+        "value": "50",
+        "rate": "NORMAL"
+      },
+      "leadership": {
+        "value": "40",
+        "rate": "ACCEPTABLE"
+      },
+      "responsibility": {
+        "value": "60",
+        "rate": "NORMAL"
+      },
+      "employeesRate": {
+        "value": "55",
+        "rate": "NORMAL"
+      },
+      "clientsRate": {
+        "value": "40",
+        "rate": "ACCEPTABLE"
+      },
+      "bossRate": {
+        "value": "45",
+        "rate": "ACCEPTABLE"
+      },
+      "organizationWorkProcess": {
+        "value": "60",
+        "rate": "NORMAL"
+      },
+      "punctuality": {
+        "value": "50",
+        "rate": "NORMAL"
+      },
+      "stressResistance": {
+        "value": "50",
+        "rate": "NORMAL"
+      },
+      "creativity": {
+        "value": "40",
+        "rate": "ACCEPTABLE"
+      },
+      "analyticsSkills": {
+        "value": "45",
+        "rate": "ACCEPTABLE"
+      },
+      "communicationsSkills": {
+        "value": "55",
+        "rate": "NORMAL"
+      }
+    }
+  }
+]
