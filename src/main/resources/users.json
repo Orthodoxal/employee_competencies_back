@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "fullName": "Иван Иванов",
+    "department": "Отдел разработки",
+    "position": "Разработчик",
+    "city": "Москва",
+    "login": "ivanov",
+    "password": "123456"
+  },
+  {
+    "id": 2,
+    "fullName": "Петр Петров",
+    "department": "Отдел продаж",
+    "position": "Менеджер",
+    "city": "Санкт-Петербург",
+    "login": "petrov",
+    "password": "qwerty"
+  },
+  {
+    "id": 3,
+    "fullName": "Анна Сидорова",
+    "department": "Отдел маркетинга",
+    "position": "Маркетолог",
+    "city": "Екатеринбург",
+    "login": "sidorova",
+    "password": "password"
+  },
+  {
+    "id": 4,
+    "fullName": "Елена Козлова",
+    "department": "Отдел кадров",
+    "position": "HR-специалист",
+    "city": "Новосибирск",
+    "login": "kozlova",
+    "password": "abc123"
+  },
+  {
+    "id": 5,
+    "fullName": "Дмитрий Смирнов",
+    "department": "Отдел финансов",
+    "position": "Финансовый аналитик",
+    "city": "Казань",
+    "login": "smirnov",
+    "password": "admin123"
+  }
+]
