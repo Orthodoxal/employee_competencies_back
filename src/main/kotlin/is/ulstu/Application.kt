@@ -4,6 +4,7 @@ import io.ktor.server.application.*
 import io.ktor.server.cio.*
 import io.ktor.server.engine.*
 import `is`.ulstu.feature.authorization.configureAuthRouting
+import `is`.ulstu.feature.catalog.configureCatalogRouting
 import `is`.ulstu.plugins.configureRouting
 import `is`.ulstu.plugins.configureSerialization
 
@@ -16,4 +17,5 @@ fun Application.module() {
     configureRouting()
     configureAuthRouting()
     configureSerialization()
+    configureCatalogRouting()
 }
