@@ -2,6 +2,7 @@ package `is`.ulstu.feature.catalog.dto
 
 @kotlinx.serialization.Serializable
 data class EmployeeDto(
+    val id: Long,
     val fullName: String,
     val city: String,
     val birthDate: String,
